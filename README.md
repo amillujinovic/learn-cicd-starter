@@ -1,7 +1,11 @@
 
+
 [![CI Status](https://github.com/amilujinovic/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/amilujinovic/learn-cicd-starter/actions)
 
 [![CI Status](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+
+
+[![CI Status](https://github.com/amilujinovic/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/amilujinovic/learn-cicd-starter/actions)
 
 
 # learn-cicd-starter (Notely)
